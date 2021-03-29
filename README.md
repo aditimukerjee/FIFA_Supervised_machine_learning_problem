@@ -19,4 +19,4 @@ The biggest challenges with this dataset are:
 CONLUSION
 Here XGBoost shows a r^2 value of 0.987. It is a good classifier to handle this non-linear data problem.
 
-Overall, I really liekd working with such a huge dataset. I could have handled missing values better using knn and linear imputtaion for numerical data and better techniques for non-numerical.
+Overall, I really liked working with such a huge dataset. I could have handled missing values better using knn and linear imputtaion for numerical data and applied better techniques for categorical data.
